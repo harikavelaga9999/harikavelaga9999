@@ -3,8 +3,9 @@
 <!--
 **harikavelaga9999/harikavelaga9999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+![Uploading about_me.gif…]()
 Here are some ideas to get you started:-->
-
+###  About me
 - 🔭 I’m currently working on enhancing my skiils on Artificial Intelligence and Machine Learning and Web Development.
 - 🌱 I’m currently learning Algorithms in Machine Learning and working on Frame works.
 - 👯 I’m looking to collaborate on working in projects.
